@@ -1,0 +1,27 @@
+[27-Jul-2020 12:11:40 Europe/Chisinau] PHP Parse error:  syntax error, unexpected '?' in /home/seenshop/laravel.seenshop.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[17-Aug-2020 20:42:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12600000 bytes) in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/Controller.php on line 130
+[29-Aug-2020 14:57:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/Controller.php on line 201
+[29-Aug-2020 14:57:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/Controller.php on line 201
+[29-Aug-2020 14:57:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/Controller.php on line 201
+[29-Aug-2020 14:57:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/Controller.php on line 201
+[31-Aug-2020 21:19:29 UTC] PHP Fatal error:  Can't use function return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:19:34 UTC] PHP Fatal error:  Can't use function return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:22:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:23:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:23:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:24:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:24:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:25:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:25:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:26:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:26:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:27:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:27:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:28:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:28:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:29:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:29:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:30:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[31-Aug-2020 21:31:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/seenshop/laravel.seenshop.com/app/Http/Controllers/UsersController.php on line 61
+[01-Sep-2020 16:55:23 UTC] PHP Warning:  Unterminated comment starting line 10 in /home/seenshop/laravel.seenshop.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 180
